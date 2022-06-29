@@ -1,4 +1,5 @@
 <h1 align="center"> Snake-Game </h1>
+<br>
 
 
 # Installation
@@ -7,7 +8,10 @@
 
 
 ### Without Exe
+<br>
 
 # Credits
 
-### Install Via Exe
+| <a href="https://github.com/Imlasiya"><img src="https://telegra.ph/file/2ebee796430aae1c830ef.jpg" width="150px" height="150px" /></a> |
+|:---------------------------------------------------------------------------------------------------------------------------------------: |
+|       ** Tech2ETC **
