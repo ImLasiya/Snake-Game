@@ -7,7 +7,7 @@
 ### <a href="https://github.com/ImLasiya/Snake-Game/edit/main/README.md#install-via-exe">Via Exe</a>
 
 
-### Without Exe
+### <a href="https://telegra.ph/Snake-Game-Without-EXE-06-29">Without Exe </a>
 <br>
 
 # Credits
