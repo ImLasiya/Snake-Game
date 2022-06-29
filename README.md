@@ -3,7 +3,11 @@
 
 # Installation
 
-### <a href="#Without-Exe">Via Exe</a>
+### <a href="https://github.com/ImLasiya/Snake-Game/edit/main/README.md#install-via-exe">Via Exe</a>
 
 
 ### Without Exe
+
+# Credits
+
+### Install Via Exe
